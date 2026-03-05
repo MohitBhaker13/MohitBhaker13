@@ -27,25 +27,3 @@ Features:
 - LLM observability with Langfuse
 
 **Stack:** Next.js, TailwindCSS, Python, MongoDB
-
----
-
-### 🌱 Happy Sprout
-An early-stage product exploring **children’s mental health monitoring (ages 6–12)**.
-
-Work involved:
-- Conducting parent interviews
-- Defining behavioral signals for mental health tracking
-- Working with psychologists to shape the MVP
-
----
-
-### 🚀 Aarly
-A platform focused on **startup discovery and validation**.
-
-Work involved:
-- Building a structured database of investors and funding sources
-- Creating validation systems for startup ideas
-- Designing a founder-first submission workflow
-
----
